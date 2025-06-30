@@ -10,3 +10,4 @@ data_test$numero_crotte <- as.factor(data_test$numero_crotte)
 
 
 kruskal.test(corrigpoids ~ numero_crotte, data = data_test)
+caca
